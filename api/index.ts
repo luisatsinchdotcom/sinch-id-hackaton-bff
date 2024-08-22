@@ -24,7 +24,7 @@ const validSamples = {
 
 const openai = new OpenAI({
     // project: "sinch-id",
-    apiKey: "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"
+    apiKey: ""
 });
 
 const jsonParser = bodyParser.json()
