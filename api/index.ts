@@ -145,7 +145,11 @@ app.post('/samples', jsonParser, function (req, res) {
     if (req.body.length) {
         const data: ProcessedData[] = processKeystrokeData(req.body);
         data.forEach(subjectData => {
-            recordedSamples[subjectData.subject] = subjectData.keystrokes;
+            if (!recordedSamples[subjectData.subject]) {
+                recordedSamples[subjectData.subject] = [];
+            }
+
+            recordedSamples[subjectData.subject].push(subjectData.keystrokes);
         });
 
         res.send(`Processed and stored ${req.body.length} inputs for ${data[0].subject}.`);
@@ -161,7 +165,7 @@ app.get('/samples', (req, res) => {
         return;
     }
 
-    res.send(getSubjectSamples|| []);
+    res.send(getSubjectSamples(subject) || []);
 });
 
 app.post('/challenges', jsonParser, async function (req, res) {
@@ -180,6 +184,7 @@ app.post('/challenges', jsonParser, async function (req, res) {
         const preppedData = processedData.map(data => data.keystrokes);
 
         console.log('Prepped data:', preppedData);
+        console.log('Combined data:', combinedSamples)
 
         const assistantThread = await openai.beta.threads.create();
         const data = {
