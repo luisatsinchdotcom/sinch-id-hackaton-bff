@@ -1,0 +1,4912 @@
+[
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353850383.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353850456.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353850475.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353850527.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353850548.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353850613.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353850613.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353850697.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "q",
+            "timeStamp": 1724353850833.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353850901.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "q",
+            "timeStamp": 1724353850917.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353850978.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353851034.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "c",
+            "timeStamp": 1724353851117.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353851136
+          },
+          {
+            "eventType": "keydown",
+            "key": "k",
+            "timeStamp": 1724353851203.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "c",
+            "timeStamp": 1724353851218.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353851244.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "k",
+            "timeStamp": 1724353851270.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353851323.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353851374.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353851436.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353851453.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353851531.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353851531.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353851597.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "w",
+            "timeStamp": 1724353851640.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353851673.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "w",
+            "timeStamp": 1724353851712.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353851788.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353851827.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353851888.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353851917.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353851973.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353851973.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353852038.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "x",
+            "timeStamp": 1724353852056.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353852095.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "x",
+            "timeStamp": 1724353852141.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "j",
+            "timeStamp": 1724353852182.4
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353852200.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "j",
+            "timeStamp": 1724353852225.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353852324.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353852393.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353852476.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353852526.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "p",
+            "timeStamp": 1724353852593.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353852660
+          },
+          {
+            "eventType": "keyup",
+            "key": "p",
+            "timeStamp": 1724353852705.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353852735.3
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353852735.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353852787.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353852806.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "v",
+            "timeStamp": 1724353852844.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353852904.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "v",
+            "timeStamp": 1724353852904.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353852962.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353852995
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353853038.5
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353853048.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353853098.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353853163
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353853195.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353853246.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353853273.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353853301.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353853339
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353853400.6
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353853400.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353853432.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353853481.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353853557.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353853582.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353853629.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "z",
+            "timeStamp": 1724353853812.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "z",
+            "timeStamp": 1724353853894.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353853986
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353854024.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353854069.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353854121.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353854121.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353854194.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353854475.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353854537.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353854587.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353854654.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353854707.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353854774.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353854813.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353854876.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353855056.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353855118.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353855200.4
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353855278.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353855492.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353855564.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353855615
+          },
+          {
+            "eventType": "keydown",
+            "key": "z",
+            "timeStamp": 1724353855683.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353855683.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "z",
+            "timeStamp": 1724353855778
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353855813.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353855852.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353855944.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353855944.4
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353855944.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353856017.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353856047.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "g",
+            "timeStamp": 1724353856125.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353856130.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "g",
+            "timeStamp": 1724353856196.2
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353858413.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353858465.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353858486.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353858522.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353858595.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353858676.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "p",
+            "timeStamp": 1724353858677
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353858734.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "p",
+            "timeStamp": 1724353858754.6
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353858815
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353858864
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353858924.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353859107.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353859156.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353859247.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "p",
+            "timeStamp": 1724353859318.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353859349
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353859356.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "p",
+            "timeStamp": 1724353859418
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353859503
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353859503.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353859565.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353859588
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353859643.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353859733.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353859810.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353859879.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353859950.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353859954.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353860035.2
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353862419.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353862524.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353862524.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353862599.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353862617.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353862653.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353862688.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353862755.4
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353862756
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353862813.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353862881.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353862954.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353862954.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353862984.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353863047.2
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353863067.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353863098.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353863169.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353863215.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353863252.5
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353863252.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353863355.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353863356
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353863411.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353863491.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353863549.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353863616.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353863679.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353863692
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353863755.5
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353865585.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353865673.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353865675.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353865736
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353865822.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353865878.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353865885.1
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353865967.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353866001.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353866061.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353866114.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353866114.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353866172
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353866172.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353866214
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353866253.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353866263.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353866373.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353866584.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353866675.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "z",
+            "timeStamp": 1724353866839.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "z",
+            "timeStamp": 1724353866914.5
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353868739.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353868818.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353868846.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353868941
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353868957
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353869018.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353869160.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353869220.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353869281.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353869329.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353869388.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353869472.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353869472.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353869566.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353869601.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353869623.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353869689.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353869739.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353869909.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353870014
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353870131
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353870194.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353870320.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353870382.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353870470.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353870551.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353870980.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353871065.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353871159.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353871277.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353871277.6
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353871351.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353871406.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353871426
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353871465.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353871516.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353871534
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353871629.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353871644.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353871747
+          },
+          {
+            "eventType": "keydown",
+            "key": "k",
+            "timeStamp": 1724353872037.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353872119.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "k",
+            "timeStamp": 1724353872119.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353872208.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353872371.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353872482.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353872482.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353872561
+          },
+          {
+            "eventType": "keydown",
+            "key": "k",
+            "timeStamp": 1724353872746.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353872811.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "k",
+            "timeStamp": 1724353872830.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353872933.1
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353874937.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353875001
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353875051.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353875136.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353875205.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353875274.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353875398.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353875495.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353875665
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353875722.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353875801.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353875892.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353875917.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353876011.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353876436.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353876529
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353876553.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353876648.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353876653
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353876765.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353876932.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353876951.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353877024.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353877024.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353877080.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353877154.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353877227.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353877288
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353877315.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353877371.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353877507.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353877587.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353877612
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353877685.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353877731.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353877792.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353877873.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353877932.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353877976.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353878047.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "g",
+            "timeStamp": 1724353878073
+          },
+          {
+            "eventType": "keyup",
+            "key": "g",
+            "timeStamp": 1724353878183.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353878183.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353878246
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353878333.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353878398.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353878465.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353878514.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353878543.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353878620.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353878643
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353878666.3
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353878712
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353878735.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353878756.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353878795.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353878824.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353878862.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353878891.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353878913.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353878948.1
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353878983.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353879033.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353879058.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353879125.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353879125.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353879161
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353879201.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353879201.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353879263.1
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353882360.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353882448.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353882478.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353882545
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353882568.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353882637.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353883021.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353883072.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353883193.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353883215.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353883238.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353883299.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353883350.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353883412.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353883422.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353883475.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353883475.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "w",
+            "timeStamp": 1724353883568.1
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353883568.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "w",
+            "timeStamp": 1724353883637.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353883663.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353883731
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353883905.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353883952.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353884030.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353884057
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353884093.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353884173.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353884188.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353884261.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353884288.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353884351.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353884368.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353884441.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353884535
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353884653
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353884684
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353884777.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353884777.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353884864.1
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353884880
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353884941.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353884963.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353885004.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353885048.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353885103.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353885104.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353885159.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353885193.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353885266.3
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353887511.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353887608
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353887608.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353887657.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353887687
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353887722.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353887726.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353887740.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353887780
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353887827.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353887851.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353887914.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353887960.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353888017.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353888082.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353888082.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353888118.4
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353888222.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "w",
+            "timeStamp": 1724353888511.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "w",
+            "timeStamp": 1724353888587.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353888738.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353888814.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353888814.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "w",
+            "timeStamp": 1724353888863.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353888897.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353888936.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "w",
+            "timeStamp": 1724353888961.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353888983.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353889015.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353889088
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353889088.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353889155.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353889155.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353889224.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353889250.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353889300.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353889317.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353889361.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353889407.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353889517.3
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353890829.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353890925.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353890928.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353890983
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353891124.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353891202.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353891817
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353891883.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353891978
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353892000.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353892083.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353892083.5
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353892084.1
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353892196.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353892225
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353892296
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353892300.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "v",
+            "timeStamp": 1724353892384.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353892404.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353892476.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "v",
+            "timeStamp": 1724353892476.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353892535.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353892566.4
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353892637
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353892655.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353892727.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353892825.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353892920.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "x",
+            "timeStamp": 1724353892920.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "x",
+            "timeStamp": 1724353892994
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353893005.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353893118.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353893175
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353893191.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353893373.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353893442.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353893459.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353893519.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353893556.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353893607.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "v",
+            "timeStamp": 1724353893630
+          },
+          {
+            "eventType": "keyup",
+            "key": "v",
+            "timeStamp": 1724353893704.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353893732.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353893806.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353893827.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353893874.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353893904.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353893955.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353894079.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353894168.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353894286.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "g",
+            "timeStamp": 1724353894353.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353894363.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "g",
+            "timeStamp": 1724353894430.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353894462.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353894528.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353894530
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353894568.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353894624
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353894657.1
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353894693.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353894761.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353894850.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353894931.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353894975.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353895007.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353895035.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353895083.6
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353897781.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353897859.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353897879.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353897974
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353898003.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353898014.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353898072.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353898136.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353898553.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353898639.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353898673.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353898740.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353898773.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353898824
+          },
+          {
+            "eventType": "keydown",
+            "key": "v",
+            "timeStamp": 1724353898903.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353898989.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "v",
+            "timeStamp": 1724353899007.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353899064.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353899084
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353899173.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353899173.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353899242.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353899242.2
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353899317.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353899330.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "w",
+            "timeStamp": 1724353899390.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353899407
+          },
+          {
+            "eventType": "keyup",
+            "key": "w",
+            "timeStamp": 1724353899503.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353899593.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353899665.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353899830.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353899901.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "v",
+            "timeStamp": 1724353900103.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "v",
+            "timeStamp": 1724353900181.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353900230
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353900303.2
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353902535
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353902576.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353902636.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353902636.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353902708.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353902708.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353902734.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353902762
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353902799.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353902863
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353902883
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353902943.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353902959.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353902988.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353903010.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353903073
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353903094.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353903150.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353903207
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353903207.4
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353903257
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353903295.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353903312.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353903351
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353903396.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353903424.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353903439.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353903485
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353904843.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353904910.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353904950.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353904974.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353905037.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353905060.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353905105.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353905189.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353905227.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353905284
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353905340.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353905404.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353905407.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353905441
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353905481
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353905532
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353905600.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353905660.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353905694.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353905732
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353907670.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353907774.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353907804.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353907844.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353908059.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353908118.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353908199.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353908270.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353908305.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353908340.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353908375.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353908418.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "g",
+            "timeStamp": 1724353908651.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "g",
+            "timeStamp": 1724353908715.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353908800
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353908879.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353908917.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "c",
+            "timeStamp": 1724353909015.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353909016.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "c",
+            "timeStamp": 1724353909127.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353909162.6
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353909224.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353909280.3
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353909336.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "9",
+            "timeStamp": 1724353909456.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "9",
+            "timeStamp": 1724353909492.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "1",
+            "timeStamp": 1724353909757.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "1",
+            "timeStamp": 1724353909826.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "1",
+            "timeStamp": 1724353909902.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "1",
+            "timeStamp": 1724353909983.3
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353911944.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353912007.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353912047.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "w",
+            "timeStamp": 1724353912062.6
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353912095.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353912140.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "w",
+            "timeStamp": 1724353912160.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353912200.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353912262.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353912333.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353912369.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353912404.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353912447
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353912529.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353912556.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353912556.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353912606.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353912668.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353912669.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353912723.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353912756.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353912788.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353912809.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353912852.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "k",
+            "timeStamp": 1724353912889
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353912951.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "k",
+            "timeStamp": 1724353912990.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353913052.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353913052.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353913134.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353913135
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353913218
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353913290.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353913335.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353913405.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353913406
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353913468.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353913468.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353913546.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353913593.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353913623.3
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353913681.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353913740.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353913833.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353913859.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353913950.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "z",
+            "timeStamp": 1724353913982.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353914055.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "z",
+            "timeStamp": 1724353914094.4
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353914147.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353914176.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353914258.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353914292.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353914340.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353914376.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353914426.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "k",
+            "timeStamp": 1724353914443.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353914494.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "k",
+            "timeStamp": 1724353914551.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353914566.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353914616.4
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353914650.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353914671.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353914704.6
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353914725.3
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353914794.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353914819.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353914877.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353914885.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353914969.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353914969.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353915053
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353915053.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353915111.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353915161.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353915251
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353915251.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353915339.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353915358.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353915437.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353915438.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353915515.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353915515.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "c",
+            "timeStamp": 1724353915589.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353915603
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353915641.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "c",
+            "timeStamp": 1724353915685
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353915715.6
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "c",
+            "timeStamp": 1724353917858.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353917940.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "c",
+            "timeStamp": 1724353917983.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353918035.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353918084.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353918158.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353918181.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353918217.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353918261.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353918283.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353918328.3
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353918376.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353919036.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353919085.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353919154.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353919224.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353919251.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353919270
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353919306.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353919358.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353919385.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353919439.2
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353919488
+          },
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353919512.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353919515.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353919606.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353919607.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353919663.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353919688.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353919744.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353919841.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353919924.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353919964.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353919993.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353920146.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353920227.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353920278.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353920347.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353920397.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353920447.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353920475.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353920502.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353920546.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353920546.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353920584.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353920645
+          },
+          {
+            "eventType": "keydown",
+            "key": "k",
+            "timeStamp": 1724353920764.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353920823.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "k",
+            "timeStamp": 1724353920850.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353920901.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353920934.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353920949.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353920971.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353921041.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353921145.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353921180.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353921225.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353921246.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353921271
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353921285.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353921366.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353921405.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353921434.6
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353921515.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353921568.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353921616.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353921628.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353921655.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353921701.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353921733.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "c",
+            "timeStamp": 1724353921783.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353921783.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353921825.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353921825.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "c",
+            "timeStamp": 1724353921851.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353921916.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353921951.2
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353921958.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353922010.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353922056.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353922095.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353922189.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353922190.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353922254.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "p",
+            "timeStamp": 1724353922347.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353922428.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "p",
+            "timeStamp": 1724353922435.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353922453.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353922492.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353922527.3
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353922578.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353922647.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353922671.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353922742.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353922796.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353922796.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353922855.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353922889.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353922947.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353923002
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353923026.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353923110.6
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353924998.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353925088.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353925202.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353925319.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "g",
+            "timeStamp": 1724353925343.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "g",
+            "timeStamp": 1724353925422.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "h",
+            "timeStamp": 1724353925437.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "h",
+            "timeStamp": 1724353925528.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353925528.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353925577.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353925613.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "j",
+            "timeStamp": 1724353925650.6
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353925666.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "j",
+            "timeStamp": 1724353925699.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353925788.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353925825
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353925893.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353925894.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353925949.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353925950.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353925991
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353926023.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "b",
+            "timeStamp": 1724353926059.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353926096.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "b",
+            "timeStamp": 1724353926151.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353926196.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353926197.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353926242.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353926266.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353926363.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353926367.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353926432.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353926450.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "k",
+            "timeStamp": 1724353926478.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "k",
+            "timeStamp": 1724353926538.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353926569.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353926614.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353926691.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353926770.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353926799.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353926873.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353926928.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353926956.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353927013.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353927052.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353927106.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353927134.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353927181.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353927242
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353927300.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353927322.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353927375.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353927400
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353927482.9
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "l",
+            "timeStamp": 1724353929570.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353929616.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "l",
+            "timeStamp": 1724353929680.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353929680.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353929729.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353929800.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "'",
+            "timeStamp": 1724353929828.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353929873.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "'",
+            "timeStamp": 1724353929889.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353929984.7
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353929985.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353930042.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353930062.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353930130.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353930152.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353930231.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353930259.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353930298.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353930349
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353930349.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353930375.9
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353930465.3
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353937672.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353937724.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353937819.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353937861.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353937915.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353937940.3
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353937944
+          },
+          {
+            "eventType": "keydown",
+            "key": "w",
+            "timeStamp": 1724353938013.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353938045.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353938109.9
+          },
+          {
+            "eventType": "keyup",
+            "key": "w",
+            "timeStamp": 1724353938177.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "y",
+            "timeStamp": 1724353938177.9
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353938200.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353938232.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "y",
+            "timeStamp": 1724353938284.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353938324.3
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353938324.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353938428.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353938428.4
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353938428.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353938502.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "f",
+            "timeStamp": 1724353938535.7
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353938553.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "f",
+            "timeStamp": 1724353938629.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353938629.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "n",
+            "timeStamp": 1724353938680.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353938738.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353938739
+          },
+          {
+            "eventType": "keyup",
+            "key": "n",
+            "timeStamp": 1724353938796.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353938815.8
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353938816.3
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353938898.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353938919.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "u",
+            "timeStamp": 1724353938988.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353939025.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353939038.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "u",
+            "timeStamp": 1724353939093.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353939114.2
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353941251.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353941367.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353941367.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353941431.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353941471.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353941510.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353941561.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353941561.4
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353941561.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353941658.2
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353941659.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353941762.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353941762.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353941795.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353941852.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353941868.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353941885.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353941942.5
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353941982.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353942075.2
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353942084.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "e",
+            "timeStamp": 1724353942150.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353942183.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "s",
+            "timeStamp": 1724353942204.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353942281.8
+          },
+          {
+            "eventType": "keyup",
+            "key": "e",
+            "timeStamp": 1724353942321.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "s",
+            "timeStamp": 1724353942321.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353942369.2
+          }
+        ]
+      ]
+    },
+    {
+      "subject": "matt.prestlien@sinch.com",
+      "inputSeries": [
+        [
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353944319.7
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353944416.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353944466.2
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353944523.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353944556.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353944626
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353944856.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353944906.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353944988.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353945025.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "Backspace",
+            "timeStamp": 1724353945092.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "Backspace",
+            "timeStamp": 1724353945156.5
+          },
+          {
+            "eventType": "keydown",
+            "key": "d",
+            "timeStamp": 1724353945175.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "d",
+            "timeStamp": 1724353945282.3
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353945320.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "m",
+            "timeStamp": 1724353945349
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353945375
+          },
+          {
+            "eventType": "keyup",
+            "key": "m",
+            "timeStamp": 1724353945471.7
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353945472.1
+          },
+          {
+            "eventType": "keydown",
+            "key": " ",
+            "timeStamp": 1724353945552.6
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353945573.8
+          },
+          {
+            "eventType": "keyup",
+            "key": " ",
+            "timeStamp": 1724353945629.9
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353945646.4
+          },
+          {
+            "eventType": "keydown",
+            "key": "r",
+            "timeStamp": 1724353945726.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353945786.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "r",
+            "timeStamp": 1724353945828.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "i",
+            "timeStamp": 1724353946238
+          },
+          {
+            "eventType": "keyup",
+            "key": "i",
+            "timeStamp": 1724353946325.1
+          },
+          {
+            "eventType": "keydown",
+            "key": "g",
+            "timeStamp": 1724353946451.1
+          },
+          {
+            "eventType": "keyup",
+            "key": "g",
+            "timeStamp": 1724353946557.8
+          },
+          {
+            "eventType": "keydown",
+            "key": "a",
+            "timeStamp": 1724353946607.5
+          },
+          {
+            "eventType": "keyup",
+            "key": "a",
+            "timeStamp": 1724353946724.2
+          },
+          {
+            "eventType": "keydown",
+            "key": "t",
+            "timeStamp": 1724353946724.4
+          },
+          {
+            "eventType": "keyup",
+            "key": "t",
+            "timeStamp": 1724353946825.6
+          },
+          {
+            "eventType": "keydown",
+            "key": "o",
+            "timeStamp": 1724353946848.3
+          },
+          {
+            "eventType": "keyup",
+            "key": "o",
+            "timeStamp": 1724353946934.5
+          }
+        ]
+      ]
+    }
+  ]

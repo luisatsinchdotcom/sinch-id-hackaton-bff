@@ -1,0 +1,2172 @@
+[
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353439349.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "Tab",
+          "timeStamp": 1724353439441.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "p",
+          "timeStamp": 1724353441408.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "p",
+          "timeStamp": 1724353441521.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353441770.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353441873.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353442182.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353442266.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353442347.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353442431.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "w",
+          "timeStamp": 1724353442544.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353442656.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353442660.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353442736.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353442739.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353442828
+        },
+        {
+          "eventType": "keydown",
+          "key": "d",
+          "timeStamp": 1724353442964.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "d",
+          "timeStamp": 1724353443077.1
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "p",
+          "timeStamp": 1724353445630.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "p",
+          "timeStamp": 1724353445703
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353445745.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353445825.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353445936.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353446005.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353446092.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353446191.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "w",
+          "timeStamp": 1724353446274.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353446397.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353446398.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353446474.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353446502.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353446551.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "d",
+          "timeStamp": 1724353446669.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "d",
+          "timeStamp": 1724353446786
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "p",
+          "timeStamp": 1724353449646.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "p",
+          "timeStamp": 1724353449726.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353449759.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353449883.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353450110.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353450159.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353450267.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353450330.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "w",
+          "timeStamp": 1724353450444
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353450528
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353450559.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353450640.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353450643.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353450704.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "d",
+          "timeStamp": 1724353450839
+        },
+        {
+          "eventType": "keyup",
+          "key": "d",
+          "timeStamp": 1724353450943.4
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353454313.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353454405.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353454413
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353454501.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353454596.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353454633.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353454653.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353454777.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353455328.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353455399.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353455407.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353455512.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353455535.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353455588.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353455688.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "y",
+          "timeStamp": 1724353455736.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353455825.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "y",
+          "timeStamp": 1724353455843.6
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353457854.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353457928.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353457983.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353458021
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353458090.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353458122.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353458131.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353458291.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "Enter",
+          "timeStamp": 1724353459072.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "Enter",
+          "timeStamp": 1724353459193.2
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353462150.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "h",
+          "timeStamp": 1724353462232.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353462233.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353462323.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "h",
+          "timeStamp": 1724353462326
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353462427.1
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353462439.3
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353462546.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "q",
+          "timeStamp": 1724353462635
+        },
+        {
+          "eventType": "keydown",
+          "key": "u",
+          "timeStamp": 1724353462724.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "q",
+          "timeStamp": 1724353462739.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "i",
+          "timeStamp": 1724353462799.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "u",
+          "timeStamp": 1724353462834.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "i",
+          "timeStamp": 1724353462888
+        },
+        {
+          "eventType": "keydown",
+          "key": "c",
+          "timeStamp": 1724353462913.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "k",
+          "timeStamp": 1724353463005.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "c",
+          "timeStamp": 1724353463017.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "k",
+          "timeStamp": 1724353463133.6
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353463188.4
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353463320.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "b",
+          "timeStamp": 1724353463351.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "b",
+          "timeStamp": 1724353463442.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353463469.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353463553.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353463569.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "w",
+          "timeStamp": 1724353463676.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353463681.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353463774.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353463792.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353463896.3
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353463948.8
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353464036.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "f",
+          "timeStamp": 1724353464057.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "f",
+          "timeStamp": 1724353464133.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353464151.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353464243.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "x",
+          "timeStamp": 1724353464268.8
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353464376.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "x",
+          "timeStamp": 1724353464376.6
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353464492
+        },
+        {
+          "eventType": "keydown",
+          "key": "j",
+          "timeStamp": 1724353464598.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "j",
+          "timeStamp": 1724353464677.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "u",
+          "timeStamp": 1724353464751.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "u",
+          "timeStamp": 1724353464811.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "m",
+          "timeStamp": 1724353464945.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "m",
+          "timeStamp": 1724353465031.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "p",
+          "timeStamp": 1724353465031.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "p",
+          "timeStamp": 1724353465168
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353465229.9
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353465281.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "Backspace",
+          "timeStamp": 1724353465493.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "Backspace",
+          "timeStamp": 1724353465573.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353465581.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353465661.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "d",
+          "timeStamp": 1724353465773.3
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353465833.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "d",
+          "timeStamp": 1724353465869.8
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353465958
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353466028.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353466137.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "v",
+          "timeStamp": 1724353466174
+        },
+        {
+          "eventType": "keyup",
+          "key": "v",
+          "timeStamp": 1724353466241.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353466318.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353466394.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353466439.3
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353466474.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353466507.6
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353466590.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353466626
+        },
+        {
+          "eventType": "keydown",
+          "key": "h",
+          "timeStamp": 1724353466669.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353466719.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "h",
+          "timeStamp": 1724353466784.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353466792.4
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353466884.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353466888.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353466972.6
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353467017
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353467128.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353467140.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353467220.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "z",
+          "timeStamp": 1724353467333.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "y",
+          "timeStamp": 1724353467413
+        },
+        {
+          "eventType": "keyup",
+          "key": "z",
+          "timeStamp": 1724353467461.5
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353467505.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "y",
+          "timeStamp": 1724353467565.3
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353467613.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "d",
+          "timeStamp": 1724353467682.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353467782.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "d",
+          "timeStamp": 1724353467786.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353467878.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "g",
+          "timeStamp": 1724353467912.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "g",
+          "timeStamp": 1724353468040.5
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353471586.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "H",
+          "timeStamp": 1724353471802.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353471898.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "h",
+          "timeStamp": 1724353471933.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353472013.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353472109.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353472134.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353472189.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353472260.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353472362.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353472466.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353472606.3
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353475224.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "W",
+          "timeStamp": 1724353475375.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353475452.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353475487.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "h",
+          "timeStamp": 1724353475560.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353475640.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "h",
+          "timeStamp": 1724353475692.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353475754.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353475792.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353475884.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "'",
+          "timeStamp": 1724353475970.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353476091.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "'",
+          "timeStamp": 1724353476118.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353476182.5
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353476222.3
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353476342.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353476374.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "h",
+          "timeStamp": 1724353476462.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353476478.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353476574.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "h",
+          "timeStamp": 1724353476586.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353476639
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353476670.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353476778.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353477136
+        },
+        {
+          "eventType": "keydown",
+          "key": "?",
+          "timeStamp": 1724353477292.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "?",
+          "timeStamp": 1724353477395.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353477468.3
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353479999.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "W",
+          "timeStamp": 1724353480155.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353480212.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353480299.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "h",
+          "timeStamp": 1724353480485.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353480556.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "h",
+          "timeStamp": 1724353480636.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353480713.1
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353480745.1
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353480866
+        },
+        {
+          "eventType": "keydown",
+          "key": "g",
+          "timeStamp": 1724353480980.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353481067.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "g",
+          "timeStamp": 1724353481076.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353481180.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353481192.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353481212.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353481272.2
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353481296.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353481334.1
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353481423.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353481440.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "h",
+          "timeStamp": 1724353481520.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353481532
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353481616.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "h",
+          "timeStamp": 1724353481634
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353481728.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353481732.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353481808.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353481844.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353481920.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "E",
+          "timeStamp": 1724353481948.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "?",
+          "timeStamp": 1724353481975.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "?",
+          "timeStamp": 1724353482088.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353482144.8
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353484532.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "I",
+          "timeStamp": 1724353484810.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "I",
+          "timeStamp": 1724353484916.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353484916.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353485034
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353485112.4
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353485130.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "i",
+          "timeStamp": 1724353485224.9
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353485244.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353485330.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "i",
+          "timeStamp": 1724353485332.7
+        },
+        {
+          "eventType": "keydown",
+          "key": " ",
+          "timeStamp": 1724353485453.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353485457
+        },
+        {
+          "eventType": "keyup",
+          "key": " ",
+          "timeStamp": 1724353485580.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353485819.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353485935.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "u",
+          "timeStamp": 1724353485967.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "d",
+          "timeStamp": 1724353486019.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "u",
+          "timeStamp": 1724353486088
+        },
+        {
+          "eventType": "keyup",
+          "key": "d",
+          "timeStamp": 1724353486103.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353486219.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353486304.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353486311.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "?",
+          "timeStamp": 1724353486380.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "?",
+          "timeStamp": 1724353486480.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353486512.1
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353489387.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353489459.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "x",
+          "timeStamp": 1724353489602.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "x",
+          "timeStamp": 1724353489702.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "p",
+          "timeStamp": 1724353489720.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353489772.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "p",
+          "timeStamp": 1724353489829.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353489932.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353489936.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353490044.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353490070.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353490199.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353490202
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353490318.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353490342.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "i",
+          "timeStamp": 1724353490390.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353490454.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353490474.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353490554.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "i",
+          "timeStamp": 1724353490582.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353490614.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353490658.6
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "w",
+          "timeStamp": 1724353493630.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353493693.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353493721.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353493822.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "w",
+          "timeStamp": 1724353493823.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353493887.1
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353496454.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353496564.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353496610.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353496709.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353496735.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353496806
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353496902.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353496997.6
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "i",
+          "timeStamp": 1724353500335.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "m",
+          "timeStamp": 1724353500455.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "i",
+          "timeStamp": 1724353500472.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "m",
+          "timeStamp": 1724353500575.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "p",
+          "timeStamp": 1724353500624.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353500688.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "p",
+          "timeStamp": 1724353500725.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353500809.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353500829.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353500899
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353500987.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353501092.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "i",
+          "timeStamp": 1724353501100
+        },
+        {
+          "eventType": "keyup",
+          "key": "i",
+          "timeStamp": 1724353501203.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "b",
+          "timeStamp": 1724353501240.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "b",
+          "timeStamp": 1724353501345.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353501345.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353501456.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353501476
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353501588.7
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "m",
+          "timeStamp": 1724353504531
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353504648.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "m",
+          "timeStamp": 1724353504659.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353504759.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353504834.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353504954.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "a",
+          "timeStamp": 1724353505015.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "a",
+          "timeStamp": 1724353505114
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353508627.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353508734.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353508929.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353509001.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353509036.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353509117.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353510605.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353510752.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "Backspace",
+          "timeStamp": 1724353511046.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "Backspace",
+          "timeStamp": 1724353511113.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353511354.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353511458.2
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "v",
+          "timeStamp": 1724353520663.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "v",
+          "timeStamp": 1724353520756.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353520777.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353520870
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353520987.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353521132.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "u",
+          "timeStamp": 1724353522013.2
+        },
+        {
+          "eventType": "keyup",
+          "key": "u",
+          "timeStamp": 1724353522093.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353522212.7
+        },
+        {
+          "eventType": "keydown",
+          "key": "t",
+          "timeStamp": 1724353522330.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353522358.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "t",
+          "timeStamp": 1724353522450.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353522451.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353522541.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353522631.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353522744.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353522765.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353522882.1
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "Shift",
+          "timeStamp": 1724353535434.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "H",
+          "timeStamp": 1724353536697.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "H",
+          "timeStamp": 1724353536801.1
+        },
+        {
+          "eventType": "keyup",
+          "key": "Shift",
+          "timeStamp": 1724353536805.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353536926.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353537014.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "w",
+          "timeStamp": 1724353537066.5
+        },
+        {
+          "eventType": "keyup",
+          "key": "w",
+          "timeStamp": 1724353537154.9
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353540324.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353540444.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353540444.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353540540.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "v",
+          "timeStamp": 1724353540717.9
+        },
+        {
+          "eventType": "keyup",
+          "key": "v",
+          "timeStamp": 1724353540817.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353540900.9
+        },
+        {
+          "eventType": "keydown",
+          "key": "r",
+          "timeStamp": 1724353541012.4
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353541016.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "r",
+          "timeStamp": 1724353541128.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "m",
+          "timeStamp": 1724353541180.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "m",
+          "timeStamp": 1724353541276.8
+        },
+        {
+          "eventType": "keydown",
+          "key": "i",
+          "timeStamp": 1724353541300.3
+        },
+        {
+          "eventType": "keydown",
+          "key": "n",
+          "timeStamp": 1724353541388.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "i",
+          "timeStamp": 1724353541439.6
+        },
+        {
+          "eventType": "keydown",
+          "key": "d",
+          "timeStamp": 1724353541492
+        },
+        {
+          "eventType": "keyup",
+          "key": "n",
+          "timeStamp": 1724353541529
+        },
+        {
+          "eventType": "keyup",
+          "key": "d",
+          "timeStamp": 1724353541604.1
+        }
+      ]
+    ]
+  },
+  {
+    "subject": "John",
+    "inputSeries": [
+      [
+        {
+          "eventType": "keydown",
+          "key": "p",
+          "timeStamp": 1724353545525.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "o",
+          "timeStamp": 1724353545625
+        },
+        {
+          "eventType": "keyup",
+          "key": "p",
+          "timeStamp": 1724353545650
+        },
+        {
+          "eventType": "keyup",
+          "key": "o",
+          "timeStamp": 1724353545745.4
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353545802.6
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353545883.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "s",
+          "timeStamp": 1724353545967.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "s",
+          "timeStamp": 1724353546069.2
+        },
+        {
+          "eventType": "keydown",
+          "key": "i",
+          "timeStamp": 1724353546083
+        },
+        {
+          "eventType": "keyup",
+          "key": "i",
+          "timeStamp": 1724353546153
+        },
+        {
+          "eventType": "keydown",
+          "key": "b",
+          "timeStamp": 1724353546220.3
+        },
+        {
+          "eventType": "keyup",
+          "key": "b",
+          "timeStamp": 1724353546312.1
+        },
+        {
+          "eventType": "keydown",
+          "key": "l",
+          "timeStamp": 1724353546312.7
+        },
+        {
+          "eventType": "keyup",
+          "key": "l",
+          "timeStamp": 1724353546395.5
+        },
+        {
+          "eventType": "keydown",
+          "key": "e",
+          "timeStamp": 1724353546437.8
+        },
+        {
+          "eventType": "keyup",
+          "key": "e",
+          "timeStamp": 1724353546533.8
+        }
+      ]
+    ]
+  }
+]
