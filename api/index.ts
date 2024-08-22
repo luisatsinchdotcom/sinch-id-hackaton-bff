@@ -53,7 +53,7 @@ const validSamples = {
 const recordedSamples = {}; // This will store new recorded samples
 
 const openai = new OpenAI({
-    apiKey: '' // Add your OpenAI API key here
+    apiKey: "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"
 });
 
 const jsonParser = bodyParser.json();
@@ -111,9 +111,9 @@ function processKeystrokeData(rawData: SubjectData[]): ProcessedData[] {
                 keystrokeSequence.push({
                     key: currentEvent.key,
                     nextKey: nextEvent ? nextEvent.key : null,
-                    hTime: parseFloat(holdTime.toFixed(4)),
-                    ddTime: ddTime !== null ? parseFloat(ddTime.toFixed(4)) : null,
-                    udTime: udTime !== null ? parseFloat(udTime.toFixed(4)) : null,
+                    hTime: prepTime(holdTime),
+                    ddTime: prepTime(ddTime),
+                    udTime: prepTime(udTime),
                 });
             }
 
@@ -124,6 +124,13 @@ function processKeystrokeData(rawData: SubjectData[]): ProcessedData[] {
     });
 
     return processedData;
+}
+
+// Protects against invalid time values
+function prepTime(time: number): number {
+    return time !== null && time < 1700000000 && time > -1700000000 ?
+        parseFloat(time.toFixed(4)) :
+        null;
 }
 
 function getSubjectSamples(subject: string): Keystroke[][][] {
@@ -165,6 +172,8 @@ app.get('/samples', (req, res) => {
         return;
     }
 
+    console.log('Getting samples for subject:', subject)
+
     res.send(getSubjectSamples(subject) || []);
 });
 
@@ -178,13 +187,10 @@ app.post('/challenges', jsonParser, async function (req, res) {
             combinedSamples = getSubjectSamples(subject);
         }
 
-        console.log('Combined samples:', combinedSamples);
+        console.log('Creating challenge for subject: ', subject, ' with input: ', req.body.input)
 
         const processedData = processKeystrokeData([{subject: req.body.subject, inputSeries: [req.body.input]}]);
         const preppedData = processedData.map(data => data.keystrokes);
-
-        console.log('Prepped data:', preppedData);
-        console.log('Combined data:', combinedSamples)
 
         const assistantThread = await openai.beta.threads.create();
         const data = {
