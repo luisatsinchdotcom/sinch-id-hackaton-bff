@@ -54,7 +54,7 @@ const recordedSamples = {}; // This will store new recorded samples
 
 const openai = new OpenAI({
     // project: "sinch-id",
-    apiKey: "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"
+    apiKey: process.env.API_KEY
 });
 
 const jsonParser = bodyParser.json();
